@@ -11,8 +11,8 @@
 // ==/UserScript==
 
 
-var name_account = "Pamtrg";
-var memberMoney = "1000";
+var name_account = "Pamstrg";
+var memberMoney = "10000";
 
 
 
